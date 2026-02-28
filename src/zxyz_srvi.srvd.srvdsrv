@@ -1,0 +1,4 @@
+@EndUserText.label: 'serv'
+define service Zxyz_srvi {
+  expose zxyzprojection;
+}
